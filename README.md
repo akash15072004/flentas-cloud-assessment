@@ -1,4 +1,16 @@
 ﻿# flentas-cloud-assessment
+<p align="center">
+  <img src="https://img.shields.io/badge/Terraform-v1.4+-623CE4?logo=terraform" />
+  <img src="https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws" />
+  <img src="https://img.shields.io/github/last-commit/Akash-Chaudhary/flentas-cloud-assessment?color=blue" />
+  <img src="https://img.shields.io/github/repo-size/Akash-Chaudhary/flentas-cloud-assessment?color=brightgreen" />
+  <img src="https://img.shields.io/badge/Infrastructure--as--Code-IaC-success" />
+  <img src="https://img.shields.io/badge/License-MIT-green" />
+</p>
+
+---
+
+
 
 🚀 Flentas Cloud Engineer Internship – Technical Assessment
 Infrastructure-as-Code (IaC) Implementation using Terraform & AWS
@@ -191,3 +203,4 @@ architecture.puml – UML architecture diagram (can render to PNG)
 Akash Chaudhary
 Cloud Engineer Intern Candidate
 B.Tech | Information Technology
+
