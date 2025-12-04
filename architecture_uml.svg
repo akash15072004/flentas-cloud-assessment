@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800">
+<rect x="500" y="20" width="200" height="60" fill="#ffffff" stroke="black"/>
+<text x="600.0" y="50.0" font-size="14" text-anchor="middle" alignment-baseline="middle">Internet</text>
+<rect x="500" y="100" width="200" height="60" fill="#ffffff" stroke="black"/>
+<text x="600.0" y="130.0" font-size="14" text-anchor="middle" alignment-baseline="middle">ALB</text>
+<rect x="500" y="200" width="200" height="60" fill="#ffffff" stroke="black"/>
+<text x="600.0" y="230.0" font-size="14" text-anchor="middle" alignment-baseline="middle">EC2 ASG</text>
+<rect x="250" y="320" width="300" height="80" fill="#f0f8ff" stroke="black"/>
+<text x="400.0" y="360.0" font-size="14" text-anchor="middle" alignment-baseline="middle">RDS (Private)</text>
+<rect x="750" y="320" width="300" height="80" fill="#f5fff0" stroke="black"/>
+<text x="900.0" y="360.0" font-size="14" text-anchor="middle" alignment-baseline="middle">S3 Static Site</text>
+<rect x="250" y="460" width="300" height="60" fill="#ffffff" stroke="black"/>
+<text x="400.0" y="490.0" font-size="14" text-anchor="middle" alignment-baseline="middle">API Gateway</text>
+<rect x="250" y="540" width="300" height="60" fill="#ffffff" stroke="black"/>
+<text x="400.0" y="570.0" font-size="14" text-anchor="middle" alignment-baseline="middle">Lambda</text>
+<line x1="600" y1="80" x2="600" y2="100" stroke="black" stroke-width="2"/>
+<line x1="600" y1="160" x2="600" y2="200" stroke="black" stroke-width="2"/>
+<line x1="600" y1="260" x2="400" y2="320" stroke="black" stroke-width="2"/>
+<line x1="600" y1="260" x2="900" y2="320" stroke="black" stroke-width="2"/>
+<line x1="400" y1="400" x2="400" y2="460" stroke="black" stroke-width="2"/>
+</svg>
