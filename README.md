@@ -201,7 +201,8 @@ architecture.puml – UML architecture diagram (can render to PNG)
 
 🧑‍💻 Author
 Akash Chaudhary
-Cloud Engineer Intern Candidate
+
 B.Tech | Information Technology
+
 
 
